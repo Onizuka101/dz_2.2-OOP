@@ -14,7 +14,7 @@ public class Main {
         Ravenclaw padmaPatil = new Ravenclaw("Падма Патил",56,46,45,45,45);
         Ravenclaw marcusBelby = new Ravenclaw("Маркус Белби",45,56,56,56,56);
         System.out.println(harryPotter);
-        System.out.println(hermioneGranger);
+        System.out.println(hermioneGranger) ;
         System.out.println(ronWeasley);
         System.out.println(dracoMalfoy);
         System.out.println(gregoryGoyle);
